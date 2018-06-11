@@ -37,6 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'popper_js'
 gem 'bootstrap', '4.1.0'
 gem 'font-awesome-sass', '~> 4.7.0'
+gem 'simple_form'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
